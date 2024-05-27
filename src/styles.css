@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+.maindiv{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+   
+ }
+.innerdiv{
+    margin: 20px;
+    display: flex;
+    color: white;
+
+}
+
+.innerdiv div{
+   cursor: pointer;
+}
+ .about{
+    display: flex;
+ }
+
+ .images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 50px;
+ }
+
+ .images img{
+    width: 400px;
+    /* margin: 20px; */
+ }

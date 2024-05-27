@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'gitdemo';
+navitems=["RRR Casino", "Casino32", "LAPoker", "Prode24", "Latam", "Chilegana"];
+
 }
