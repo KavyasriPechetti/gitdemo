@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-navitems=["RRR Casino", "Casino32", "LAPoker", "Prode24", "Latam", "Chilegana"];
+navitems=["RRR Casino", "Casino32", "LAPoker", "Prode24", "Latam", "Chilegana","River Poker","Jugamas"];
 
 }

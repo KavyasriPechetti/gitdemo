@@ -3,7 +3,7 @@
     background-color: black;
     display: flex;
     justify-content: space-between;
-   
+   align-items: center;
  }
 .innerdiv{
     margin: 20px;
@@ -14,6 +14,11 @@
 
 .innerdiv div{
    cursor: pointer;
+}
+
+.innerdiv img{
+    height: 50px;
+    border-radius: 50%;
 }
  .about{
     display: flex;
